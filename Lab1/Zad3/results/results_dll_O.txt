@@ -1,0 +1,47 @@
+Execution time:
+Real time: 1568 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 6557593 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 2394229 ns
+User time: 0 
+System time: 0 
+
+  76  303 2558 /home/igor/Laby/Lab1/Zad3/blockutil.c
+Execution time:
+Real time: 1443 ns
+User time: 0 
+System time: 0 
+
+ 23 103 806 /home/igor/Laby/Lab1/Zad3/blockutil.h
+Execution time:
+Real time: 350 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 756 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 275 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 552 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 271 ns
+User time: 0 
+System time: 0 
+

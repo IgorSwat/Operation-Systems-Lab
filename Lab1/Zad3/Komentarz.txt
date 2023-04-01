@@ -1,0 +1,2 @@
+Różnice w otrzymanych wynikach porównując różne opcje optymalizacji nie są znaczące.
+Wartym odnotowania faktem jest to, iż operacje bazujące tylko na funkcjach zaimplementowanej biblioteki blockutil, wykonywane są istotnie szybciej w przypadku linkowania statycznego, aniżeli dynamicznego.

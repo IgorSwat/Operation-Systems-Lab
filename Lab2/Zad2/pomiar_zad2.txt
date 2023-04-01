@@ -1,0 +1,11 @@
+Test 1 (< 1024 file size):
+- 1 byte reading:
+Execution real time: 173983 ns
+- 1024 bytes reading:
+Execution real time: 139537 ns
+
+Test 2 (> 1024 file size):
+- 1 byte reading:
+Execution real time: 2159250 ns
+- 1024 bytes reading:
+Execution real time: 90917 ns

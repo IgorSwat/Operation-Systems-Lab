@@ -1,0 +1,45 @@
+Execution time:
+Real time: 1639 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 2387504 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 2313009 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 1024 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 298 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 727 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 264 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 609 ns
+User time: 0 
+System time: 0 
+
+Execution time:
+Real time: 272 ns
+User time: 0 
+System time: 0 
+

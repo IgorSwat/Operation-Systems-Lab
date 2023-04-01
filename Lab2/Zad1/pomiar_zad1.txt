@@ -1,0 +1,4 @@
+Wersja systemowa:
+Execution real time: 201236 ns
+Wersja biblioteczna:
+Execution real time: 68675 ns

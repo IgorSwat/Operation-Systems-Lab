@@ -1,0 +1,23 @@
+Wywołanie programu dla forka i komendy ignore:
+
+Wywołanie programu dla forka i komendy handler:
+Handling signal SIGUSR1
+Handling signal SIGUSR1
+
+Wywołanie programu dla forka i komendy mask:
+
+Wywołanie programu dla forka i komendy pending:
+Signal SIGUSR1 awaiting in process with id 3354
+Signal SIGUSR1 not awaiting in process with id 3355
+
+Wywołanie programu dla exec i komendy ignore:
+
+Wywołanie programu dla exec i komendy mask:
+
+Wywołanie programu dla exec i komendy pending:
+Signal SIGUSR1 awaiting in process with id 3387
+Signal SIGUSR1 awaiting in process with id 3387
+
+
+Wnioski:
+Procesy potomne dziedziczą ustawienia sygnałów po procesie macierzystym. Jednocześnie sygnał oczekujący w procesie macierzystym nie jest widoczny dla procesu potomnego, co widać po wynikach wywołania komendy pending.
